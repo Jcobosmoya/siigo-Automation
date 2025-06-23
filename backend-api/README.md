@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# siigo
-=======
+
 # Siigo QA Challenge - Backend API
 
 Este módulo contiene las pruebas automatizadas para la API de Siigo, implementadas con **Serenity BDD**, **Screenplay Pattern** y **Java**.
